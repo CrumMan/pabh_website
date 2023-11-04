@@ -82,7 +82,7 @@
             grid-row: 1/2;
         }
         .hero_img{
-            grid-row: 1/3;
+            grid-row: 1/4;
             grid-column: 1/2;
             z-index: 0;
             width: 80%;
@@ -95,17 +95,19 @@
             color: black;
             background-color:#F0EDE5;  
             width: 350px;
-            margin:10px auto;
+            margin: auto;
         }
         .hero_title{
-            grid-row: 2/3;
+            grid-row: 3/4;
             grid-column: 1/2;
             color:black;
+            text-align: center;
             z-index: 1;
         }
         .hero_card{
             width: 100%;
         }
+        
         img{
             width: 80%;
         }
@@ -147,7 +149,11 @@ footer{
     width: 80%;
     border-radius: 10px;
 }
-
+.hero_sub_img{
+    grid-column: 1/3;
+    grid-row: 2/3;
+    z-index: 1;
+}
 div h3{
     grid-row: 2;
 }
@@ -246,8 +252,6 @@ header ul li a:hover{
 }
 /* index */
 .hero_card{
-    margin: 10px;
-    padding: 10px;
     color: white;
 }
 #weather{
@@ -261,19 +265,12 @@ header ul li a:hover{
     width: 30%;
     height: 35px;
     margin: 0 auto;
-}
-form{
-    text-align: center;
-    width: 80%;
-    background-color: #fffdd0;
-    margin: 40px auto;
     padding: 20px;
-    display:block;   
-}
-.smoothie{
-    width: 40%;
-    max-width: 300px;
-    display: block;
-    margin: 10px auto;
 }
 /* About */
+.main_about{
+    background-color:#F0EDE5;
+    color:black;
+    padding: 10px;
+    border-radius: 10px;
+}
