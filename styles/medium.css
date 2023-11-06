@@ -150,7 +150,7 @@
         grid-column: 1/2;
         z-index: 1;
         color: black;
-        background-color: #fffdd0;
+        background-color: #F0ede5;
         height: 80px;
         width: 500px;
         margin:10px auto;
@@ -160,7 +160,7 @@
         grid-column: 1/2;
         color:black;
         z-index: 1;
-        background-color: #fffdd0;
+        background-color: #F0EDE5;
         height: 20px;
         width: 30%;
         margin: 10px auto;
@@ -169,13 +169,13 @@
         display: grid;
         grid-template-columns: 1fr 2fr;
         grid-template-rows: 50px 1fr;
-        background-color: #fffdd0;
+        background-color: #F0EDE5;
         margin: 10px auto;
     }
     .about_text{
         grid-column: 1/2;
         grid-row: 2/3;
-        background-color:#fffdd0;
+        background-color:#F0EDE5;
     }
     .about_img{
         grid-column: 2/3;
@@ -184,7 +184,7 @@
     }
     .about_title{
         grid-row: 1/2;
-        background-color: #fffdd0;
+        background-color: #F0EDE5;
         height: 100px;
     }
 }

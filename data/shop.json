@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "products": "Frosted Lemon",
+            "product_id": "00001",
+            "about": "This scent is this stuff",
+            "imgurl":"images/pabh_fake_candle.jpg",
+            "size" : "16 oz",
+            "adcopy":""
+        },
+        {
+            "products": " Idahoen Huckleberry",
+            "product_id": "00002",
+            "about": "This scent has huckleberry",
+            "imgurl":"images/fake_huckleberry.jpg",
+            "size" : "16 oz",
+            "adcopy":""
+        },
+        {
+            "products": "Egg Nog Delight",
+            "product_id": "00002",
+            "about": "This scent is this stuff",
+            "imgurl":"images/pabh_fake_candle.jpg",
+            "size" : "16 oz",
+            "adcopy":""
+        },
+        {
+            "products": "Rose Citrus",
+            "product_id": "00002",
+            "about": "This scent is this stuff",
+            "imgurl":"images/pabh_fake_candle.jpg",
+            "size" : "16 oz",
+            "adcopy":""
+        },
+        {
+            "products": "Gay Candle Scent",
+            "product_id": "00002",
+            "about": "This scent has the sexual energy of 200 gay men. Doing... thats not okay",
+            "imgurl":"images/fake_huckleberry.jpg",
+            "size" : "16 oz",
+            "adcopy":""
+        }
+    ]
+}
