@@ -3,41 +3,41 @@
         {
             "products": "Frosted Lemon",
             "product_id": "00001",
-            "about": "This scent is this stuff",
-            "imgurl":"images/pabh_fake_candle.jpg",
+            "about": "This fragrance has the smell of lemon and eucalyptus.",
+            "imgurl":"images/frosted_lemon_fake.jpg",
             "size" : "16 oz",
             "adcopy":""
         },
         {
-            "products": " Idahoen Huckleberry",
+            "products": "Candy Cane",
             "product_id": "00002",
-            "about": "This scent has huckleberry",
-            "imgurl":"images/fake_huckleberry.jpg",
-            "size" : "16 oz",
+            "about": "A sharp but fresh fragrance that will help you wake up (lavendar and Peppermint).",
+            "imgurl":"images/lavander_peppermint.jpg",
+            "size" : "10 oz",
             "adcopy":""
         },
         {
-            "products": "Egg Nog Delight",
-            "product_id": "00002",
-            "about": "This scent is this stuff",
-            "imgurl":"images/pabh_fake_candle.jpg",
-            "size" : "16 oz",
+            "products": "Snickerdoodle Delight",
+            "product_id": "00003",
+            "about": "This fragrance has the smell of the best cookie in the world, Snickerdoodle (Cinnamon and Vanilla)",
+            "imgurl":"images/fake_snickerdoodle.jpg",
+            "size" : "10 oz",
             "adcopy":""
         },
         {
-            "products": "Rose Citrus",
-            "product_id": "00002",
-            "about": "This scent is this stuff",
-            "imgurl":"images/pabh_fake_candle.jpg",
-            "size" : "16 oz",
+            "products": "Christmas Morning",
+            "product_id": "00004",
+            "about": "One year for christmas my parents bought a real tree and I would every afternoon would do my homework while . Well we trapped that fragrance in this candle.",
+            "imgurl":"images/christmas_morning_fake.jpg",
+            "size" : "10 oz",
             "adcopy":""
         },
         {
-            "products": "Gay Candle Scent",
-            "product_id": "00002",
-            "about": "This scent has the sexual energy of 200 gay men. Doing... thats not okay",
-            "imgurl":"images/fake_huckleberry.jpg",
-            "size" : "16 oz",
+            "products": "Eucalyptus Oasis",
+            "product_id": "00005",
+            "about": "A crisp fragrance of an orange tree and the austrailian outback",
+            "imgurl":"images/eucalyptus_orange_fake.jpg",
+            "size" : "10 oz",
             "adcopy":""
         }
     ]
